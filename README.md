@@ -143,7 +143,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">]()
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании блока Junior»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/jun.png)
 [<img src="/chat_net.png" width="280px" hspace="10px" alt="Сертификат Чат Net»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/chat_net.png)
 [<img src="/battle.png" width="280px" hspace="10px" alt="Сертификат Битва_покемонов»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/battle.png)
 [<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/stepik.png)
