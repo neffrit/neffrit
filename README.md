@@ -25,12 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=300&theme=radical&username=neffrit)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&theme=radical&username=neffrit)
 
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-
-
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 ### Тестирование API и интеграций 
 <table class="table" border="0" width="100%">
@@ -136,8 +131,7 @@
     <td>Bash</td>
   </tr>
 </table>
-<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
-<!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
+
 
 
 <br>
@@ -156,8 +150,6 @@
 [<img src="/jun3.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/page2.png)
 
 
-## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:nikky619@mail.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/cshmrct)
 
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
+
+
