@@ -143,10 +143,10 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">]()
 [<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Чат Net»">](https://github.com/neffrit/neffrit/blob/main/chat_net.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
+[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">]()
+[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">]()
 
 <br>
 
