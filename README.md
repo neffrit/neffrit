@@ -144,7 +144,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/page1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/page1.png)
+[<img src="/qastudioru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/qustudioru.png)
 [<img src="/page2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/page2.png)
 [<img src="/jun2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/jun2.png)
 [<img src="/jun3.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/page2.png)
