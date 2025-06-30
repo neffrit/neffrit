@@ -152,7 +152,7 @@
 
 ## 🎒 Образование
 [<img src="/page1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/page1.png)
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">]()
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/page2.png)
 <br>
 <br>
 
