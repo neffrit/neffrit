@@ -17,6 +17,9 @@
 🌱 Есть возможность профессионального роста от тестирования до QA Automation.<br>
 💬 Ценят прозрачную коммуникацию и совместное решение проблем.<br>
 
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [nikky619@mail.ru](mailto:nikky619@mail.ru)
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@cshmrct](https://t.me/cshmrct)
+
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=300&theme=radical&username=neffrit)
