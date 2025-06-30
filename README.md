@@ -1,5 +1,4 @@
 ##
-Меня зовут Никита, я QA Engineer
 
 <img align="right" width="370" height="370" src="https://github.com/neffrit/neffrit/blob/main/kotik4.png" />
 
