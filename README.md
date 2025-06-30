@@ -154,7 +154,7 @@
 [<img src="/page2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/page2.png)
 [<img src="/jun3.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/page2.png) 
 [<img src="/jun2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/jun2.png)
-<br>
+
 <br>
 <br>
 <br>
