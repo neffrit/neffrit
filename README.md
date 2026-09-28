@@ -20,7 +20,7 @@
 
 Ценю честность и открытость — когда проблемы решают вместе, а не перекидывают ответственность. <br>
 
-- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [nikky619@mail.ru](mailto:nikky619@mail.ru)
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [maven17@mail.ru](mailto:maven17@mail.ru)
 - <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@cshmrct](https://t.me/cshmrct)
 
 ## 📊 Статистика
