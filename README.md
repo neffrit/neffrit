@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Nikita Bolshunov — QA Engineer" width="100%">
+<img src="assets/header-v2.svg" alt="Nikita Bolshunov — QA Engineer" width="100%">
 
 Курс QA Studio · 9 месяцев практики на реальных продуктах · собственное приложение для тестировщиков
 
