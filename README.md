@@ -4,7 +4,7 @@
 
 Курс QA Studio · 9 месяцев практики на реальных продуктах · собственное приложение для тестировщиков
 
-[<img src="https://img.shields.io/badge/Почта-maven17@mail.ru-2ea44f?style=for-the-badge&logo=maildotru&logoColor=white" alt="Почта">](mailto:maven17@mail.ru)&nbsp;[<img src="https://img.shields.io/badge/Telegram-@cshmrct-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">](https://t.me/cshmrct)
+[<img src="https://img.shields.io/badge/Сайт-nikitabolshunov.ru-1F5FAD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт">](https://nikitabolshunov.ru)&nbsp;[<img src="https://img.shields.io/badge/Почта-maven17@mail.ru-2ea44f?style=for-the-badge&logo=maildotru&logoColor=white" alt="Почта">](mailto:maven17@mail.ru)&nbsp;[<img src="https://img.shields.io/badge/Telegram-@cshmrct-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">](https://t.me/cshmrct)
 
 </div>
 
